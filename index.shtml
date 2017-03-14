@@ -53,8 +53,7 @@
 	<style>
 		.navbar-default {
     background: #fff;
-    border-color: #fff;
-    padding-top: 0em;
+    border-color: #fff; 
 	}
 	</style>
 	
